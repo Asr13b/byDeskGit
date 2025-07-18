@@ -1,6 +1,9 @@
-body{
-    background-color: blue;
-}
+
 h1{
     color: red;
+}
+.pp{
+    border: 3px solid red;
+    background-color: cadetblue;
+    display: none;
 }
